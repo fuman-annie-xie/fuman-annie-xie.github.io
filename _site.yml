@@ -8,7 +8,7 @@ navbar:
     icon: fa-user
     href: about.html
   - text: "Resume"
-    href: com.html
+    #href: com.html
   - text: "Projects"
     menu:
     - text: ReConnect Program Evaluation

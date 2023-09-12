@@ -3,7 +3,7 @@ output: html_document
 ---
 
 ```{js, echo = FALSE}
-document.title = "Florian Privé"
+document.title = "Fuman Annie Xie"
 ```
 
 ## Hi there, I am Fuman Annie Xie!

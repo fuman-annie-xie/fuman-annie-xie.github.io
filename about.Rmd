@@ -21,5 +21,5 @@ I have a background in Electrical and Computer Engineering. I love engineering! 
 
 ### Current work
 
-I am currently in my second and last year in my Master's program. This semester, I am working on a capstone project with Bipartisan Policy Center on visualizing immigration data. Continuing on my summer internship at Social Decision and Analytics Division, Biocomplexity Insitute, UVA, I'm volunteering to work on a part of the Data Commons Project. I'm also a teaching assistant for Applied Economic Analysis and Database Management.
+I am currently in my second and last year in my Master's program. This semester, I am working on a capstone project with Bipartisan Policy Center on visualizing immigration data. Continuing on my summer internship at [Social and Decision Analytics Division](https://biocomplexity.virginia.edu/institute/divisions/social-and-decision-analytics), Biocomplexity Insitute, UVA, I'm volunteering to work on a part of the [Data Commons](https://biocomplexity.virginia.edu/project/social-impact-data-commons) Project. I'm also a teaching assistant for Applied Economic Analysis and Database Management.
 
