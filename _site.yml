@@ -1,8 +1,41 @@
-name: "my-website"
+name: Fuman Annie Xie
+output_dir: '.'
 navbar:
-  title: "My Website"
+  title: Annie
+  type: inverse
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+  - text: "About"
+    icon: fa-user
+    href: about.html
+  - text: "Resume"
+    href: com.html
+  - text: "Projects"
+    menu:
+    - text: ReConnect Program Evaluation
+      icon: fa-rss
+      href: https://dspg-young-scholars-program.github.io/dspg23_broadband_website/index
+    - text: NYC Citi Bike
+      icon: fa-archive
+      desc: Statistical tools with big matrices stored on disk.
+      #href: 
+    - text: Wedding Planner
+      icon: fa-archive
+      desc: Analysis of massive SNP arrays.
+     # href: 
+    - text: Capstone
+      icon: fa-users
+     # href: 
+  right:
+  - icon: fa-envelope-o fa
+    href: mailto:fumanx@andrew.cmu.edu
+  - icon: fa-github fa
+    href: https://github.com/fuman-annie-xie/
+output:
+  html_document:
+    theme: readable
+    highlight: textmate
+    lib_dir: site_libs
+    self_contained: no
+    includes:
+      in_header: header.html
+

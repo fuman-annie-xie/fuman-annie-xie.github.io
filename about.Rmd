@@ -1,5 +1,25 @@
----
-title: "About This Website"
----
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-100463316-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-More about this website.
+  gtag('config', 'UA-100463316-3');
+</script>
+
+```{js, echo = FALSE}
+document.title = "Fuman Annie Xie"
+```
+
+<br>
+
+### About me
+
+I have a background in Electrical and Computer Engineering. I love engineering! Engineering is cool and fun but I am more interested in learning how engineering can help solve real-world problems. So I am studying public policy and data analytics.
+
+
+### Current work
+
+I am currently in my second and last year in my Master's program. This semester, I am working on a capstone project with Bipartisan Policy Center on visualizing immigration data. Continuing on my summer internship at Social Decision and Analytics Division, Biocomplexity Insitute, UVA, I'm volunteering to work on a part of the Data Commons Project. I'm also a teaching assistant for Applied Economic Analysis and Database Management.
+
